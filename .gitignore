@@ -1,0 +1,19 @@
+# Django Files
+db.sqlite3
+*.pyc
+__pycache__/
+media/article_pics
+media/category_images
+media/profile_pics
+media/banner
+media/uploads/
+
+# Pycharm Files
+.idea
+.DS_Store
+
+# Unit test / coverage reports.
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
